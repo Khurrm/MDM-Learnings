@@ -1,0 +1,23 @@
+site_name: MDM-Learnings
+site_url: https://Khurrm.github.io/MDM-Learnings/
+
+nav:
+    
+    - Aboutme: 'aboutme.md'
+    - Index: 'index.md'
+    - Android-MDM: 
+        - General: 
+            - ApplicationManagement:
+                - Internal App Sharing and Testing via Google Play Console: 'Android_MDM/General/ApplicationManagement-InternalAppSharing.md'
+            - Troubleshooting: 
+                - Safemode: 'Android_MDM/General/Troubleshooting-Safemode.md'
+            - Android Enterprise: 
+                Android Zero Touch: 'Android_MDM/General/AndroidEnterprise/AndroidZeroTouch.md'
+        - WorksapaceONE: 
+            - 'Android_MDM/WorkspaceONE/UnderConstruction.md'
+        - Google MDM: 
+            - 'Android_MDM/GoogleMDM/UnderConstruction.md'      
+    - Apple-MDM:
+        - 'Apple/General/UnderConstruction.md'
+theme:
+    name: readthedocs
