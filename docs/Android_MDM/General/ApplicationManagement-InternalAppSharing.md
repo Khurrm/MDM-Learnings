@@ -28,5 +28,8 @@ Kindly Note:
 i) In order to update the app you have to send the link again.
 ii) Testers have to pay for the paid apps.
 iii) Develop a Standard Procedure that how to get proper feedback from the users. 
+ 
  ```
+ 
+ <img src="InternalAppSharing1.JPG">
  
