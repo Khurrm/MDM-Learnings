@@ -21,8 +21,9 @@ The next step is to inform the testers to enable internal app sharing on their A
 The screen-shots in succession are as follows. 
 _Note: They were tested on Samsung Galaxy Phone. So it may vary on other phones._
 
-<kbd>![Figure](https://raw.githubusercontent.com/Khurrm/MDM-Learnings/main/docs/Assets/Images/Android/internalAppSharing/InternalAppSharing1.JPG)</kbd>
-<kbd>![Figure](https://raw.githubusercontent.com/Khurrm/MDM-Learnings/main/docs/Android_MDM/General/internalAppSharing/InternalAppSharing2.JPG)</kbd>
+ <img src="internalAppSharing/InternalAppSharing1.JPG">
+ <img src="internalAppSharing/InternalAppSharing2.JPG">
+  
 ``` 
 Kindly Note:
 i) In order to update the app you have to send the link again.
@@ -30,6 +31,4 @@ ii) Testers have to pay for the paid apps.
 iii) Develop a Standard Procedure that how to get proper feedback from the users. 
  
  ```
- 
- <img src="InternalAppSharing1.JPG">
  
