@@ -11,3 +11,5 @@ Other cases where Safe mode can help in troubleshooting are:
 Every Android mobile device is different when it comes to Safe mode.<br>
 [One nice article about it is here](https://www.androidauthority.com/how-to-enter-safe-mode-android-801476/)  
 
+Wifi Calling Prioritization on Samsung S10e /S10 Lite Workaround
+
