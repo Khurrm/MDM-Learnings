@@ -1,11 +1,7 @@
-.DS_Storesite/
 site/
+.DS_Storesite/
 .DS_Store
 docs/.DS_Store
 docs/Android_MDM/.DS_Store
 docs/Apple/.DS_Store
-docs/.DS_Store
-.DS_Store
-docs/.DS_Store
-docs/Apple/.DS_Store
-.DS_Store
+

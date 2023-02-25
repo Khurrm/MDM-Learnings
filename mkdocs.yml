@@ -28,6 +28,7 @@ nav:
             - 'Apple/GoogleMDM/UnderConstruction.md'
          - Intune:
             - 'Apple/General/UnderConstruction.md'
+    - General: 'General/links.md'
     - Aboutme: 'aboutme.md'
     - Index: 'index.md'
 
