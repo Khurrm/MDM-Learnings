@@ -24,6 +24,7 @@ nav:
                 - Apple Business Manager: 'Apple/General/AppleBusinessManager.md'
          - WorksapaceONE: 
             - 'Apple/WorkspaceONE/UnderConstruction.md'
+            - Multi Use Case Configuration: 'Apple/WorkspaceONE/MultiUseCase.md'
          - Google MDM: 
             - 'Apple/GoogleMDM/UnderConstruction.md'
          - Intune:
