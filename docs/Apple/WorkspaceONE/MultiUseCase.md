@@ -39,9 +39,9 @@ After the staging you can log out from the menu. Note that the sign out option i
 
 ![Screenshot](../../img/iOS/multiusecase-workspaceone-3.jpg)
 
-> Note
-1: Upon Login in the hub the user profile and other apps are pushed to the device. The profile
+- **Note**
+- Upon Login in the hub the user profile and other apps are pushed to the device. The profile
 will be removed when the user logs out of the device.
-2: With the single use case the user cannot log out and enterprise wipe will remove the profile
+-  With the single use case the user cannot log out and enterprise wipe will remove the profile
 from the device. 
 

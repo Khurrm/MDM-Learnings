@@ -21,10 +21,10 @@ _Note: They were tested on Samsung Galaxy Phone. So it may vary on other phones.
 ![Screenshot](../../../img/Android/InternalAppSharing1.JPG)
 ![Screenshot](../../../img/Android/InternalAppSharing2.JPG)
 
-``` 
-Kindly Note:
-1. In order to update the app you have to send the link again.
-2. Testers have to pay for the paid apps.
-3. Develop a Standard Procedure that how to get proper feedback from the users. 
- ```
+
+- **Note**
+ - In order to update the app you have to send the link again.
+ - Testers have to pay for the paid apps.
+ - Develop a Standard Procedure that how to get proper feedback from the users. 
+
  
