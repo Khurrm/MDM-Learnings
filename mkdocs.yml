@@ -6,30 +6,34 @@ nav:
     - Android-MDM: 
         - General: 
             - ApplicationManagement:
-                - Internal App Sharing and Testing via Google Play Console: 'Android_MDM/General/ApplicationManagement-InternalAppSharing.md'
+                - 'Android_MDM/General/ApplicationManagement-InternalAppSharing.md'
             - Troubleshooting: 
-                - Safemode: 'Android_MDM/General/Troubleshooting-Safemode.md'
-                - Wifi Calling Prioritization on Samsung Phones: 'Android_MDM/General/WifiCallingPrioritization.md'
+                - 'Android_MDM/General/Troubleshooting-Safemode.md'
+                - 'Android_MDM/General/WifiCallingPrioritization.md'
             - Android Enterprise: 
-                Android Zero Touch: 'Android_MDM/General/AndroidEnterprise/AndroidZeroTouch.md'
+                - 'Android_MDM/General/AndroidEnterprise/AndroidZeroTouch.md'
         - WorksapaceONE: 
             - 'Android_MDM/WorkspaceONE/UnderConstruction.md'
         - Google MDM: 
             - 'Android_MDM/GoogleMDM/UnderConstruction.md'
         - MicrosoftIntune: 
             - 'Android_MDM/Intune/UnderConstruction.md'
-    - Apple-MDM:
+    - iOS-MDM:
          - General: 
             - Apple Business Manager:
-                - Apple Business Manager: 'Apple/General/AppleBusinessManager.md'
+                - 'Apple/General/general-info.md'
+                - 'Apple/General/notes.md'
          - WorksapaceONE: 
             - 'Apple/WorkspaceONE/UnderConstruction.md'
-            - Multi Use Case Configuration: 'Apple/WorkspaceONE/MultiUseCase.md'
+            - 'Apple/WorkspaceONE/MultiUseCase.md'
          - Google MDM: 
             - 'Apple/GoogleMDM/UnderConstruction.md'
          - Intune:
             - 'Apple/General/UnderConstruction.md'
-    - General: 'General/links.md'
+    - General: 
+            - 'General/General.md'
+            - 'General/known-OS.md'
+            - 'General/app-stores.md'
     - Aboutme: 'aboutme.md'
     - Index: 'index.md'
 

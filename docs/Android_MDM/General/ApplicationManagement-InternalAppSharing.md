@@ -1,3 +1,4 @@
+# Internal App Sharing and Testing via Google Play Console
 There has been the case where a group of Internal developers were complaining that the users with corporate devices are not able to receive the internal apps through link sharing.<br> 
 So the case was provided to my team and I investigated.<br>The conclusion was that it was a simple case of enabling the internal app sharing on corporate phones. 
 _Below are the steps that one can follow for the seamless internal app-sharing_. 
