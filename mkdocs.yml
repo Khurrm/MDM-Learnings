@@ -10,8 +10,10 @@ nav:
             - Troubleshooting: 
                 - 'Android_MDM/General/Troubleshooting-Safemode.md'
                 - 'Android_MDM/General/WifiCallingPrioritization.md'
+                - 'Android_MDM/General/advanced-troubleshooting.md'
             - Android Enterprise: 
                 - 'Android_MDM/General/AndroidEnterprise/AndroidZeroTouch.md'
+                - 'Android_MDM/General/AndroidEnterprise/android-enterprise-overview.md'
         - WorksapaceONE: 
             - 'Android_MDM/WorkspaceONE/UnderConstruction.md'
         - Google MDM: 
