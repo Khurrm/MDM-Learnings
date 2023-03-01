@@ -9,7 +9,7 @@ Android Enterprise Recommended            | [Link](https://www.android.com/enter
 Enterprise Solutions Directory            | [Link](https://androidenterprisepartners.withgoogle.com/)   |
 Enterprise Solutions Directory (Glossary) | [Link](https://androidenterprisepartners.withgoogle.com/glossary/emm/#) |
 
-A good Android Enterprise Migration Bluebook](migration-playbook.pdf) is available as a reference. 
+A good Android [Enterprise Migration Bluebook](migration-playbook.pdf) is available as a reference. 
 
 
 
