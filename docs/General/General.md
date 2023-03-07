@@ -20,5 +20,10 @@ Android Enterprise | [Link](https://www.android.com/enterprise/)  |
 Android Open Source | [Link](https://source.android.com/)  | 
 
 
+Other Useful Links  |Link/Document | 
+------------ | ------------- |
+Workspace One Status | [Link](https://status.workspaceone.com/) |
+Google Workspace Status Dashboard| [Link](https://www.google.com/appsstatus/dashboard/)  | 
+
 
 
