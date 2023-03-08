@@ -24,6 +24,13 @@ Other Useful Links  |Link/Document |
 ------------ | ------------- |
 Workspace One Status | [Link](https://status.workspaceone.com/) |
 Google Workspace Status Dashboard| [Link](https://www.google.com/appsstatus/dashboard/)  | 
+Mactracker | [Link](http://mactracker.ca/index.html)  |
+FCC ID | [Link](https://fccid.io/)  |
+Google Pixel Updates | [Link](https://support.google.com/nexus/answer/4457705?hl=en)  |
+End-of-Life | [Link](https://endoflife.date/)  |
+
+
+
 
 
 
